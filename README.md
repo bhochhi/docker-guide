@@ -8,3 +8,9 @@
 
 ### [Installing docker into ubuntu](https://docs.docker.com/engine/installation/linux/ubuntulinux/#/install)
 ### What is Dockerfile?
+
+
+
+
+Resources
+- http://elliot.land/post/docker-explained-simply
