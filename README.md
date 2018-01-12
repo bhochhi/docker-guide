@@ -23,3 +23,4 @@ A container
 
 Resources
 - http://elliot.land/post/docker-explained-simply
+- https://github.com/docker/labs/tree/master/beginner/ 
