@@ -7,3 +7,4 @@
 Resources
 - http://elliot.land/post/docker-explained-simply
 - https://github.com/docker/labs/tree/master/beginner/ 
+- [ARG and ENV](https://vsupalov.com/docker-arg-env-variable-guide/)
