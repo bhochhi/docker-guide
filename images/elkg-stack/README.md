@@ -1,2 +1,2 @@
-ElasticSearch-Logstash-Kibana-Grafana all in one image. 
+ElasticSearch-Logstash-Kibana-Grafana all in one. 
 ---
